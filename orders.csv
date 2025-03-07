@@ -1,0 +1,11 @@
+OrderID,CustomerID,Product,Quantity,Price,OrderDate,TotalAmount,Status
+101,1,ProductA,5,1200,2025-03-01,6000,New
+102,2,ProductB,3,1800,2025-03-05,5400,New
+103,3,ProductC,2,2500,2025-03-10,5000,New
+104,4,ProductD,4,1000,2024-12-25,4000,Old
+105,5,ProductE,6,800,2025-03-15,4800,New
+106,6,ProductF,10,500,2024-08-30,5000,Old
+107,7,ProductG,8,600,2024-07-15,4800,Old
+108,8,ProductH,12,400,2024-06-01,4800,Old
+109,9,ProductI,15,300,2024-05-20,4500,Old
+110,10,ProductJ,20,250,2024-04-10,5000,Old
